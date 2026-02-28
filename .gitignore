@@ -50,3 +50,4 @@ server.log
 # Skills directory
 /skills/.mindwell-config
 .mindwell-config
+.env
